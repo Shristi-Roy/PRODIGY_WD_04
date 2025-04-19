@@ -30,7 +30,7 @@ This project is part of the internship tasks at **Prodigy Infotech**. It's a wea
 
 ## 🚀 How to Run
 1. Clone the repository
-2. Get your free API key from [OpenWeatherMap](https://openweathermap.org/api)
+2. Get your free API key from [OpenWeatherMap]
 3. Add the API key in your JavaScript file
 4. Open `index.html` in your browser
 
